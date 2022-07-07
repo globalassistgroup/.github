@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-07T18:37:22.191Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.66 Safari/537.36 Edg/103.0.1264.44" etag="RurMZCR5cT1txL_KG1Ye" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-07T18:41:01.516Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.66 Safari/537.36 Edg/103.0.1264.44" etag="F-MRTn1NBZWPE96AY-y4" version="20.0.4" type="github">
   <diagram name="Page-1" id="9f46799a-70d6-7492-0946-bef42562c5a5">
     <mxGraphModel dx="1374" dy="1636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -364,6 +364,30 @@
         </mxCell>
         <mxCell id="YYskyngC9HCd6ehUpp-7-138" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YYskyngC9HCd6ehUpp-7-112" target="YYskyngC9HCd6ehUpp-7-136">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YYskyngC9HCd6ehUpp-7-146" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YYskyngC9HCd6ehUpp-7-141" target="YYskyngC9HCd6ehUpp-7-142">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YYskyngC9HCd6ehUpp-7-141" value="Altas / Bajas" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="130" y="1200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YYskyngC9HCd6ehUpp-7-148" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YYskyngC9HCd6ehUpp-7-142" target="YYskyngC9HCd6ehUpp-7-147">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YYskyngC9HCd6ehUpp-7-142" value="Cta Cte" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1275" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YYskyngC9HCd6ehUpp-7-145" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YYskyngC9HCd6ehUpp-7-143" target="YYskyngC9HCd6ehUpp-7-144">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YYskyngC9HCd6ehUpp-7-143" value="Servicios" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="130" y="1360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YYskyngC9HCd6ehUpp-7-144" value="Llamadas" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="160" y="1450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YYskyngC9HCd6ehUpp-7-147" value="FC" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="340" y="1275" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
