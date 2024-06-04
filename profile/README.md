@@ -1,11 +1,19 @@
 
-<!-- GLOBAL ASSIST GROUP -->
+### GLOBAL ASSIST GROUP 
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
+
 ## Private repos
 
 ## Contact
-sistemas.arg@globalassistgroup.com
-rrhh_argentina@globalassistroup.com
-+54 (0261) 4637200
+* sistemas.arg@globalassistgroup.com
+* rrhh_argentina@globalassistroup.com
+* +54 (0261) 4637200
 
 
 <!-- Our tech stack -->
@@ -16,7 +24,7 @@ rrhh_argentina@globalassistroup.com
 
 
 
-!-- MARKDOWN LINKS & IMAGES -->
+<!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
 [contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
