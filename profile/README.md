@@ -4,8 +4,8 @@
 ## Private repos
 
 ## Contact
-* sistemas.arg@globalassistgroup.com
-* rrhh_argentina@globalassistroup.com
+* sistemas.argentina@globalassistgroup.com
+* rrhh_argentina@globalassistroup.com.ar
 * +54 (0261) 4637200
 
 
